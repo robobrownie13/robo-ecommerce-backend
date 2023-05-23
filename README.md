@@ -22,7 +22,7 @@ Users begin in the command line by creating the ecommerce database in mysql and 
 
 ## Installation
 
-You will need mysql2, sequelize, express, and dotenv listed in the package.json. You will also need to download node.js and mysql. To run the api routes, use Insomnia Core.
+You will need mysql2, sequelize, express, and dotenv listed in the package.json. You will also need to download node.js and mysql. To run the application, create a dotenv file and input your mysql password following the .env.EXAMPLE file. To run the api routes, use Insomnia Core.
 
 ## License
 
